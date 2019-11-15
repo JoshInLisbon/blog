@@ -1,0 +1,22 @@
+Heroku
+
+create new server and send code there
+
+> heroku create blog-321 --region eu
+
+free version has only us and eu
+
+paid teir can run app in multiple reigons
+
+> git removte -v
+
+makes git hub remote
+
+to deploy code can run to it
+
+so in laptop we have our repo and two remotes
+git hub (you should push to git first) (heroku might get some things from repo)
+and
+heroku
+
+git push heroku master
